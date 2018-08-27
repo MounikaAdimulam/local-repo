@@ -6,3 +6,4 @@ def multiply(x,y):
 def divide(x,y):
 	return x/y	
 add(2+4)
+.....
